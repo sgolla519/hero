@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hero"
+    }
+  },
+  "defaultProject": "hero",
+  "cli": {
+    "analytics": "90c77e48-f523-4ccb-8bba-ea8c5057e6ce"
+  }
 }
